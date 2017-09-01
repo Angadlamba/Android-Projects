@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KEYCHAIN</string>
+    <string name="action_settings">Settings</string>
+    <string name="website_name">Website Name</string>
+    <string name="email">Email/Username</string>
+    <string name="password">Password</string>
+    <string name="button_keychain">CREATE</string>
+    <string name="button_back">BACK</string>
+</resources>
